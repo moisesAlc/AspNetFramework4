@@ -62,5 +62,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-# Apply override to all files in the directory
-special-vendored-path/** WebFormsApplication/Scripts/
+*.js linguist-detectable=false
